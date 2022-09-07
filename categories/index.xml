@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on cglogic.net</title>
-    <link>https://cglogic.net/categories/</link>
-    <description>Recent content in Categories on cglogic.net</description>
+    <title>Categories on cglogic.github.io</title>
+    <link>https://cglogic.github.io/categories/</link>
+    <description>Recent content in Categories on cglogic.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://cglogic.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cglogic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
